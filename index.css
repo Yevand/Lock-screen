@@ -1,0 +1,30 @@
+.screen {
+height: 932px;
+width: 430px;
+position: fixed;
+}
+
+
+.switch {
+background-color: #D9D9D9;
+left: 65px;
+top: 820px;
+right: 65px;
+bottom: 42px;
+border: 0px;
+border-radius: 35px;
+position: absolute;
+}
+
+.switch__slider {
+height: 70px;
+width: 70px;
+left: 0px;
+top: auto;
+right: auto;
+bottom: auto;
+border: 0px;
+border-radius: 50px;
+background-color: #575757;
+position: relative;
+}
